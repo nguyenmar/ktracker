@@ -6,9 +6,10 @@ This is a web application that allows users to track and manage their favorite K
 
 - Browse and search for Korean dramas
 - Create a watchlist of dramas you want to watch
-- Mark dramas as watched or in progress
-- Rate and review dramas
-- Get recommendations based on your watch history
+- Remove dramas from watchlist upon completion
+
+## Future Features
+- Schedule sorting watchlist dramas by air days
 
 ## Technologies Used
 
